@@ -9,11 +9,13 @@ public class MainClass extends OpenBrowser{
 		
 		EnterUrl EU=new EnterUrl();
 		
-		CreateAccountTestCase Acc=new CreateAccountTestCase();
+		CreateAccountTestCase Create=new CreateAccountTestCase();
+		EditAccountTestCase Edit=new EditAccountTestCase();
 		
 		//OB.browser();
 		//EU.url();
-		Acc.Createaccount();
+		//Create.Createaccount();
+		Edit.EditAccount();
 	}
 	
 	

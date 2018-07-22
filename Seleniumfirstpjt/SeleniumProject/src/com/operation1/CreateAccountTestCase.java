@@ -9,7 +9,7 @@ import org.openqa.selenium.support.ui.Select;
 
 import net.bytebuddy.utility.RandomString;
 
-public class CreateAccountTestCase implements Setup {
+public class CreateAccountTestCase implements SetupInterface {
 
 	public void Createaccount() throws InterruptedException {
 

@@ -1,6 +1,6 @@
 package com.operation1;
 
-public interface Setup {
+public interface SetupInterface {
 	
 	
 	String CHROME_KEY = "webdriver.chrome.driver";
